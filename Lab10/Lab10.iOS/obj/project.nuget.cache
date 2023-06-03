@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZppK7fPOVYRZ/ujL/UPy2905j4FRScaIm/HcR1b3yT+cF8YC4CBeEibVJnlVNEdJSGXZvGcjruiEcFQak+kDcw==",
+  "success": true,
+  "projectFilePath": "D:\\TECSUP 5 CICLO-2023\\Aplicaciones moviles multiplataformas\\Lab10\\Lab10-main\\Lab10\\Lab10.iOS\\Lab10.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\favian\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\favian\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\favian\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

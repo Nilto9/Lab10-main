@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{03DC5FD3-9B2A-4A95-A1C4-590DBF1DF243}|Default">
+  <MultiItemStartupConfigurations />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.38add4620502" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab10" expanded="True">
+            <Node name="Lab10" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="PickerDemo.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab10.Android PreferredExecutionTarget="Android.38add4620502" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Lab10.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AA4549DB-6143-4638-97C2-CF331E24A34A" FirstBuild="True" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="12.3.0.3.3" />
+</Properties>
